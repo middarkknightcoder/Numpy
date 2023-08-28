@@ -46,4 +46,3 @@ print(random_num)
 
 random_array = np.random.choice([7,5,8,9,5,2,3] ,size=(2,3))
 print(random_array)
-

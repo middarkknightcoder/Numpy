@@ -22,18 +22,17 @@ print("The fixing of the arra element : ",brr)
 c = np.array([3.57785 ,5.47855 ,-54.784])
 crr = np.around(c ,2)
 print(crr)
-
 print(np.around(-24.57895 ,3)) # You can also round of the single number using the around function
 
 
-# ***** floor(value) : Used for the find the floor value of the number (Ex : 3.45 Floor value id 3)
+# ***** floor(value) : Used for the find the floor(lowest number) value of the number (Ex : 3.45 Floor value id 3)
 
 d = np.array([4.34 ,5.50 ,-45.333])
 drr = np.floor(d)
 print("Floor value of the array element : ",drr)
 
 
-# ***** ceil(value) : Used for the find the ceiling value of the number (Ex : 3.45 ceil value is 4)
+# ***** ceil(value) : Used for the find the ceiling(gretest number) value of the number (Ex : 3.45 ceil value is 4)
 
 e = np.array([4.34 ,5.50 ,-45.333])
 err = np.ceil(e)

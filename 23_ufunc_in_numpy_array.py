@@ -33,5 +33,4 @@ print(type(myadd))
 print("Check the given function is ufunc or not : ",type(myadd) == np.ufunc)
 
 
-
-# You can perform arithmetic operation using the ufunc (check program number 08)
+# Note : You can perform arithmetic operation using the ufunc (check program number 08)

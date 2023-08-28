@@ -15,3 +15,6 @@ for i in range(1 ,5):
 ar = np.array(l)
 
 print(ar)
+
+
+# You can also create array usinng the tuples and list 

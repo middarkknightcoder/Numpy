@@ -49,7 +49,7 @@ import numpy as np
 # print(arr_dig)
 
 
-# ***** create array with specified interval - linespace() autometicly set the interval using the num value
+# ***** create array with specified interval - linespace() autometiclly set the interval using the num value
 
 arr_inter = np.linspace(0 ,20 ,num=5) 
 print(arr_inter)
