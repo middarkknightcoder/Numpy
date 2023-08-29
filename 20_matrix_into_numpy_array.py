@@ -28,13 +28,13 @@ print("Matrix multiplication using the * : \n",mat1 * mat2)
 print("Matrix multiplication using the dot function : \n",mat1.dot(mat2))
 
 
-# **** Transpose of the matrix (Transpose - rows elements are conerting into the column)
+# **** Transpose of the matrix (Transpose - rows elements are converting into the column)
 
 matT = np.matrix([[1,4],[7,8]])
 
 print(matT)
 print("Transpose of the matrix : \n",np.transpose(matT))
-print()
+print()  
 print("Transpose of the matrix using the T keyword : \n",matT.T)
 print()
 
@@ -44,10 +44,7 @@ print(np.swapaxes(matT ,0,1))
 print(np.swapaxes(matT ,1,0))
 
 
-# ***** np.linalg.inv(matI) - Inverse of the matrix using the function
-
-matI = np.matrix([[1,2],[3,4]])
-print(matI)
+# ***** np.linalg.inv 
 print()
 
 print(np.linalg.inv(matI))
@@ -65,8 +62,8 @@ print(np.linalg.matrix_power(matP ,2))
 # ***** np.linalg.det(matD) - Determinat of the matrix is find using the numpy function
 
 matD = np.matrix([[1,4],[7,5]])
-
 print(np.linalg.det(matD))
+
 
 
 

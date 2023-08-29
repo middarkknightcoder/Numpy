@@ -1,6 +1,6 @@
-# **** insert(array_name ,position ,value) - used for the insert the value into specified position
-
 import numpy as np
+
+# **** insert(array_name ,position ,value) - used for the insert the value into specified position
 
 a = np.array([1,5,4,7,8,5,2])
 

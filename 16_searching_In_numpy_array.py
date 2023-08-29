@@ -2,7 +2,7 @@
 
 import numpy as np
 
-# ****** Where(arra with operation = value) - used for the find the index of the numpy array specifind value
+# ****** Where(array with operation = value) - used for the find the index of the numpy array specifind value
 
 arr = np.array([2,4,5,8,7,5,4,9,8,7])
 

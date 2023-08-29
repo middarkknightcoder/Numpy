@@ -54,7 +54,6 @@ arrf = np.add(arr1 ,4)
 print(arrf)
 
 
-
 # ******* module operation in 1d array
 
 print()

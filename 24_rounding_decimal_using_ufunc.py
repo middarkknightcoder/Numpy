@@ -14,7 +14,7 @@ print("Trucation of the array element : ",arr)
 
 b = np.array([-3.578,58.54,2.55,-8.8575])
 brr = np.fix(b)
-print("The fixing of the arra element : ",brr)
+print("The fixing of the array element : ",brr)
 
 
 # ***** around(number ,number of fractional part) : Function is used for the round of the value how many number is exist after the decimal point

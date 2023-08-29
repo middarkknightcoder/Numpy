@@ -12,9 +12,10 @@ print(random_arr) # Pls note high repeatation is number 5 because it's probabilt
 random_arr2 = np.random.choice([1,2,3,4,5,6] ,p=[0.1,0.2,0.01,0.09,0.4,0.2] ,size=(25))
 print(random_arr2)
 
+# You can create the 2d array also 
 
-
-
+random_arr2d = np.random.choice([1,2,3,4,5,6] ,p=[0.1,0.2,0.01,0.09,0.4,0.2] ,size=(2,3))
+print(random_arr2d)
 
 
 

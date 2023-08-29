@@ -18,7 +18,7 @@ print(np.add(a1,a2))
 
 
 # ****** Create Your own ufunc
-# Note : when you create your own ufunc so you need to add numpy library for the use in your program 
+# Note : when you create your own ufunc so you need to add in numpy library for the use in your program 
 
 # frompyfunc(function ,number of input ,number of output)
 

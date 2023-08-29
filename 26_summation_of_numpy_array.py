@@ -11,11 +11,9 @@ add_arr = np.add(a,b)
 
 print(add_arr)
 
-
 # ***** Summation 
 
 sum_arr = np.sum([a,b])  # If you don't used the [] then throw error - only integer scalar arrays can be converted to a scalar index
-
 print(sum_arr)
 
 

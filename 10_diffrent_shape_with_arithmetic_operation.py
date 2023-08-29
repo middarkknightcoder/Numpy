@@ -10,6 +10,7 @@ a2 = np.array([1,2,3]) # This is (1,3)
 print(a2.shape)
 
 print(a1 + a2)
+print(a1 * a2)
 
 
 

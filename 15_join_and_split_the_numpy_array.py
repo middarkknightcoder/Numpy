@@ -1,7 +1,6 @@
 # Join - you can create the one array using the two or more than two array
 # For the join we are used the concatenate() and stack() functoion
 
-
 import numpy as np
 
 # ****** concatenate() Function to join

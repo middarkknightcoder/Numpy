@@ -1,4 +1,4 @@
-# sorting - is a techniqe which is used for the sorting the element of the numpy array
+# sorting - is a techniqe which  is used for the sorting the element of the numpy array
 # Filtering - is a techniqe which is used for the filtering(skip) the element into the numpy array
 
 # ******* np.sort(array_name) : used for the sorting the array element

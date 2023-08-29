@@ -29,8 +29,8 @@ import numpy as np
 # arr_ranf = np.random.ranf(4)
 # print(arr_ranf)
 
-# arr2_ranf = np.random.ranf([3,4])
-# print(arr2_ranf)
+arr2_ranf = np.random.ranf([3,4])
+print(arr2_ranf)
 
 
 # ***** randint() - function is used for the create the random number array between the given range
@@ -46,3 +46,4 @@ print(random_num)
 
 random_array = np.random.choice([7,5,8,9,5,2,3] ,size=(2,3))
 print(random_array)
+

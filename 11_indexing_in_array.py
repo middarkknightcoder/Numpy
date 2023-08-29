@@ -1,4 +1,4 @@
-# In array indexing is two type positive and negative 
+# In array indexing is two type positive and negative (forward and reverse)
 
 import numpy as np
 

@@ -15,7 +15,6 @@ print(np.sin(1.57)) # Pi/2 approx 1
 
 # Note : You can also find the cos and tan value same as above
 
-
 # ****** Convert degree into the radians and also radians into degree
 
 # Formula : radians = pi/180 * degree_values
@@ -53,4 +52,11 @@ perp = 20
 
 hypotenues = np.hypot(base ,perp)
 print(hypotenues)
+
+base_arr = np.array([15,7,8,5])
+perp_arr = np.array([20,8,6,2])
+
+hypotenues_arr = np.hypot([i for i in base_arr],[j for j in perp_arr])
+
+print(hypotenues_arr)
 
